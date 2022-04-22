@@ -56,7 +56,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/apple-touch-icon-1-128x128.png"
       },
       "components": [
         {
