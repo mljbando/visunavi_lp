@@ -1103,7 +1103,7 @@ a {
 .cid-t3ZXJQnBqI .card .card-header {
   background-color: transparent;
   margin-bottom: 0;
-  
+  border-bottom: 1px solid rgba(200,0,0,.6);
   
 }
 .cid-t3ZXJQnBqI .panel-title {
